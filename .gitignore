@@ -1,0 +1,5 @@
+# Binaries. "go build ." names the output after the module.
+/external-dns-combell-webhook
+/webhook
+
+.vscode/
